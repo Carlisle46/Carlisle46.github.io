@@ -50,7 +50,7 @@ section.text {
   flex: 1;
   padding: 2em 0 0 0; }
   section.text h1 {
-    text-transform: capitalize;
+    text-transform: uppercase;
     margin-bottom: 1em;
     color: #000; }
   section.text p, section.text table {
